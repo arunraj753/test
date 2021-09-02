@@ -6,15 +6,13 @@ def home(request):
 def home2(request):
 	return HttpResponse('This is new home')
 
-def home3(request):
+
+
+
+def about(request):
 	return HttpResponse('This is new home')
 
-def home4(request):
+def section(request):
 	return HttpResponse('This is new home')
 
-def home5(request):
-	return HttpResponse('This is new home')
-
-def home6(request):
-	return HttpResponse('This is new home')
 
